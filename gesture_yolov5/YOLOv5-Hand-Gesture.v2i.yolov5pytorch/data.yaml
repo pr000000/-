@@ -1,0 +1,8 @@
+path: ../YOLOv5-Hand-Gesture.v2i.yolov5pytorch  # 根目录路径
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names: ['Fist', 'OpenPalm', 'PeaceSign', 'ThumbsUp']

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+<<<<<<< HEAD
+    <option name="sdkName" value="Python 3.12 (basicfunctions)" />
+=======
+    <option name="sdkName" value="digitalimages" />
+>>>>>>> 1cd8a8c (手势识别)
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="digitalimages" project-jdk-type="Python SDK" />
+</project>

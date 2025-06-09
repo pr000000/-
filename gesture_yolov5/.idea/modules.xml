@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/basicfunctions.iml" filepath="$PROJECT_DIR$/.idea/basicfunctions.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/yolov5_hand.iml" filepath="$PROJECT_DIR$/.idea/yolov5_hand.iml" />
+>>>>>>> 1cd8a8c (手势识别)
+    </modules>
+  </component>
+</project>
